@@ -3,7 +3,7 @@
 
 Essa é a API do primeiro projeto, realizado para o curso da Blue EdTech módulo III.
 
-Essa API deployed no Heroku, Back-End totamelte desenvolvido com JavaScript.
+Essa API deployed no Heroku, Back-End totalmente desenvolvido com JavaScript.
 
 <img style="width:10%" src="https://coffops.com/wp-content/uploads/2021/04/2elgd5zp07wkeilkna63.png"></a>
 
