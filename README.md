@@ -1,9 +1,9 @@
 # api_el_geladon
  api projeto elgeladon
 
-Esse é a API do primeiro projeto, realizado para o curso da Blue EdTech módulo III.
+Essa é a API do primeiro projeto, realizado para o curso da Blue EdTech módulo III.
 
-Esse API deployed no Heroku
+Essa API deployed no Heroku, Back-End totamelte desenvolvido com JavaScript.
 
 <img style="width:10%" src="https://coffops.com/wp-content/uploads/2021/04/2elgd5zp07wkeilkna63.png"></a>
 
