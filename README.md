@@ -1,7 +1,7 @@
 # api_el_geladon
  api projeto elgeladon
 
-Essa é a API do primeiro projeto, realizado para o curso da Blue EdTech módulo III.
+Essa é a API do projeto realizado para o curso da Blue EdTech módulo III.
 
 Essa API deployed no Heroku, Back-End totalmente desenvolvido com JavaScript.
 
