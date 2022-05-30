@@ -19,4 +19,4 @@ const paletaSchema = new mongoose.Schema({
   },
 });
 
-export const paletas = mongoose.model('paletas', paletaSchema)
+export const paletas = mongoose.model('paletas', paletaSchema);
