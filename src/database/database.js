@@ -2,7 +2,7 @@ import mongoose from 'mongoose';
 
 export const connectToDatabase = () => {
   mongoose
-    .connect('mongodb://localhost:27017/paletas-db', {
+    .connect(process.env.URI_DATABASE, {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     })

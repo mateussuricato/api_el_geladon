@@ -1,3 +1,4 @@
+import {} from 'dotenv/config'
 import express from 'express';
 import cors from 'cors';
 import { routes } from './src/routes/paleta.route.js';
@@ -11,5 +12,5 @@ app.use(cors());
 app.use('', routes);
 
 app.listen(port, (req, res) => {
-  console.log(`Está rodando em http://localhost:${port}`);
+  console.log(`Está rodando na porta ${port}`);
 });
