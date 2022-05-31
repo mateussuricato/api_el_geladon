@@ -7,7 +7,7 @@ Essa API deployed no Heroku, Back-End totalmente desenvolvido com JavaScript.
 
 <img style="width:10%" src="https://coffops.com/wp-content/uploads/2021/04/2elgd5zp07wkeilkna63.png"></a>
 
-Esse projeto faz uso do banco de dados MongoDB Atlas
+Esse projeto faz uso do banco de dados MongoDB Atlas.
 
 ## Stacks
 Ferramentas usadas:
