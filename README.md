@@ -9,6 +9,8 @@ Essa API deployed no Heroku, Back-End totalmente desenvolvido com JavaScript.
 
 Esse projeto faz uso do banco de dados MongoDB Atlas.
 
+<img style="width:10%" src="https://www.strongdm.com/hubfs/Technology%20Images/603c5eb831820c3ce6a8f057_603a1586fa052d17fc2a6929_MongoDBAtlas.png"></a>
+
 ## Stacks
 Ferramentas usadas:
 
