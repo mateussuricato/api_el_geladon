@@ -190,95 +190,7 @@
             }
           }
         }
-      },
-      "/carrinho": {
-        "get": {
-          "summary": "Lista de todos os itens do carrinho",
-          "description": "Rota responsável por listar todos os itens do carrinho",
-          "tags": ["Carrinho"],
-          "responses": {
-            "404": {
-              "description": "Not Found"
-            },
-            "200": {
-              "description": "OK",
-              "content": {
-                "application/json": {
-                  "schema": {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/components/schemas/Carrinho"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "/create-carrinho": {
-        "post": {
-          "summary": "Cadastrar vários itens no carrinho",
-          "description": "Rota responsável por cadastrar vários itens no carrinho",
-          "tags": ["Carrinho"],
-          "requestBody": {
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Carrinho"
-                },
-                "examples": {
-                  "Carrinho": {
-                    "value": [
-                      {
-                        "paletaId": "624230fdcd38269205c82197",
-                        "quantidade": 5
-                      },
-                      {
-                        "paletaId": "62423c1e618f4a4738a5ee75",
-                        "quantidade": 2
-                      }
-                    ]
-                  }
-                }
-              }
-            }
-          },
-          "responses": {
-            "400": {
-              "description": "Bad Request"
-            },
-            "201": {
-              "description": "Created",
-              "content": {
-                "application/json": {
-                  "schema": {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/components/schemas/Carrinho"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "/finish-carrinho": {
-          "delete": {
-            "summary": "Apagar todos os itens do carrinho",
-            "description": "Rota responsável por apagar todos os itens do carrinho",
-            "tags": ["Carrinho"],
-            "responses": {
-              "400": {
-                "description": "Bad Request"
-              },
-              "200": {
-                "description": "OK"
-              }
-            }
-          }
-        }
+      }
     },
     "components": {
       "schemas": {
@@ -295,17 +207,6 @@
               "type": "string"
             },
             "preco": {
-              "type": "number"
-            }
-          }
-        },
-        "Carrinho": {
-          "type": "object",
-          "properties": {
-            "paletaId": {
-              "type": "string"
-            },
-            "quantidade": {
               "type": "number"
             }
           }
