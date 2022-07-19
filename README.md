@@ -3,23 +3,21 @@
 
 Essa é a API do projeto realizado para o curso da Blue EdTech módulo III.
 
-Essa API deployed no Heroku, Back-End totalmente desenvolvido com JavaScript.
+Essa API Back-End totalmente desenvolvido com nodejs e express.
 
-<img style="width:10%" src="https://coffops.com/wp-content/uploads/2021/04/2elgd5zp07wkeilkna63.png"></a>
+<a href="https://projeto-react-loja-iphone.vercel.app/" target="_blank"><img style="width:10%" src="https://www.4x-treme.com/wp-content/uploads/2022/01/7658037-removebg-preview.png" alt="ícone pokedex"></a>
 
 Esse projeto faz uso do banco de dados MongoDB Atlas.
 
-<img style="width:10%" src="https://www.strongdm.com/hubfs/Technology%20Images/603c5eb831820c3ce6a8f057_603a1586fa052d17fc2a6929_MongoDBAtlas.png"></a>
-
 ## Stacks
 Ferramentas usadas:
-
-<div>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<div style="display:flex">
+<img style="width:5%" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/>
+<img style="width:20%" src="https://i.imgur.com/CYBUWPD.png"/>
+ <img style="width:5%" src="https://discover.strongdm.com/hs-fs/hubfs/Technology%20Images/mongodb-atlas.png?width=200&height=200&name=mongodb-atlas.png"/>
 </div>
 
-## API
+## Frontend
 
 o Front-End dessa API se encontra no link abaixo:
 
