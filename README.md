@@ -1,5 +1,5 @@
 # api_el_geladon
- api projeto elgeladon
+ api projeto elgeladon. CRUD.
 
 Essa é a API do projeto realizado para o curso da Blue EdTech módulo III.
 
