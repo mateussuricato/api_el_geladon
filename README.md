@@ -5,7 +5,7 @@ Essa é a API do projeto realizado para o curso da Blue EdTech módulo III.
 
 Essa API Back-End totalmente desenvolvido com nodejs e express.
 
-<a href="https://apielgeladon-production.up.railway.app/api-docs/" target="_blank"><img style="width:10%" src="https://www.4x-treme.com/wp-content/uploads/2022/01/7658037-removebg-preview.png" alt="ícone pokedex"></a>
+<a href="https://apigeladon-mongodb-projetoblue.herokuapp.com/api-docs/" target="_blank"><img style="width:10%" src="https://www.4x-treme.com/wp-content/uploads/2022/01/7658037-removebg-preview.png" alt="ícone pokedex"></a>
 
 Esse projeto faz uso do banco de dados MongoDB Atlas.
 
