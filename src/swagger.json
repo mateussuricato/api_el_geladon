@@ -15,7 +15,7 @@
         "description": "API de teste"
       },
       {
-        "url": "https://apielgeladon-production.up.railway.app/",
+        "url": "https://apigeladon-mongodb-projetoblue.herokuapp.com/",
         "description": "API de produção"
       }
     ],
